@@ -1,0 +1,13 @@
+-classpath '/Users/admin/Downloads/lab2/build/classes/java/main:/Users/admin/Downloads/lab2/build/resources/main'
+-d '/Users/admin/Downloads/lab2/build/docs/javadoc'
+-doctitle 'lab2 1.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'lab2 1.0-SNAPSHOT API'
+'/Users/admin/Downloads/lab2/src/main/java/Class1.java'
+'/Users/admin/Downloads/lab2/src/main/java/Interface1.java'
+'/Users/admin/Downloads/lab2/src/main/java/Interface3.java'
+'/Users/admin/Downloads/lab2/src/main/java/Class3.java'
+'/Users/admin/Downloads/lab2/src/main/java/Class2.java'
+'/Users/admin/Downloads/lab2/src/main/java/Interface2.java'
