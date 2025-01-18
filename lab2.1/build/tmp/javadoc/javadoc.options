@@ -1,0 +1,14 @@
+-classpath '/Users/admin/Downloads/lab2.1/build/classes/java/main:/Users/admin/Downloads/lab2.1/build/resources/main'
+-d '/Users/admin/Downloads/lab2.1/build/docs/javadoc'
+-doctitle 'lab2.1 1.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'lab2.1 1.0-SNAPSHOT API'
+'/Users/admin/Downloads/lab2.1/src/main/java/org/example/If2.java'
+'/Users/admin/Downloads/lab2.1/src/main/java/org/example/If3.java'
+'/Users/admin/Downloads/lab2.1/src/main/java/org/example/If3Impl.java'
+'/Users/admin/Downloads/lab2.1/src/main/java/org/example/Cl2.java'
+'/Users/admin/Downloads/lab2.1/src/main/java/org/example/Main.java'
+'/Users/admin/Downloads/lab2.1/src/main/java/org/example/Cl3.java'
+'/Users/admin/Downloads/lab2.1/src/main/java/org/example/If1.java'
